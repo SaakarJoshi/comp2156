@@ -1,0 +1,13 @@
+{
+  "name": "comp3104---devops",
+  "version": "1.0.0",
+  "description": "- Saakar - Joshi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\"",
+    "start": "node index.js"
+  },
+  "keywords": ["devops", "nodejs", "express", "web"],
+  "author": "Saakar Joshi 101412993",
+  "license": "ISC"
+}
